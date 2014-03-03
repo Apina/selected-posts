@@ -1,0 +1,16 @@
+/**
+ * Selected Posts Frontend Stylesheets
+ * 
+ * @version 1.0.0
+ * @since 1.0.0
+ */
+ 
+.sp_list { clear:both; }
+ 
+.sp_div {float: left; margin-left: 5px; }
+
+.sp_img { margin-right: 10px; }
+
+.sp_title {}
+
+.sp_excerpt {}
